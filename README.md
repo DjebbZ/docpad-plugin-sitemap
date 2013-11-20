@@ -1,3 +1,9 @@
+# Abandonned, here's a fork maintained by DocPad itself
+
+https://github.com/docpad/docpad-plugin-sitemap
+
+---
+
 # DocPad Sitemap Plugin
 
 This DocPad plugin will automatically generate a valid `sitemap.xml` file for search engines. It's merely a wrapper for the [sitemap.js](https://github.com/ekalinin/sitemap.js) library.
